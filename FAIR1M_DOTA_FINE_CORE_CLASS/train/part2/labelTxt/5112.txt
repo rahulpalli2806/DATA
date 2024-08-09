@@ -1,0 +1,12 @@
+342.0 837.0 316.0 912.0 389.0 937.0 416.0 863.0 A330 Airplane 1
+173.0 803.0 143.0 779.0 123.0 805.0 153.0 829.0 other-airplane Airplane 1
+31.0 845.0 71.0 854.0 79.0 820.0 40.0 811.0 other-airplane Airplane 1
+34.0 800.0 73.0 809.0 79.0 779.0 42.0 770.0 other-airplane Airplane 1
+38.0 763.0 78.0 763.0 78.0 735.0 38.0 735.0 other-airplane Airplane 1
+44.0 727.0 80.0 720.0 75.0 686.0 38.0 692.0 other-airplane Airplane 1
+125.0 622.0 124.0 563.0 72.0 564.0 73.0 623.0 other-airplane Airplane 1
+900.0 354.0 947.0 354.0 947.0 303.0 900.0 303.0 Intersection Road 1
+444.0 325.0 483.0 325.0 483.0 287.0 444.0 287.0 Intersection Road 1
+914.0 76.0 952.0 76.0 952.0 54.0 914.0 54.0 Intersection Road 1
+17.0 67.0 42.0 67.0 42.0 42.0 17.0 42.0 Intersection Road 1
+449.0 74.0 482.0 74.0 482.0 41.0 449.0 41.0 Intersection Road 1

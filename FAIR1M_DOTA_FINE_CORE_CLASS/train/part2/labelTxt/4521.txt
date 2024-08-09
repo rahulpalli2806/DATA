@@ -1,0 +1,10 @@
+373.0 286.0 335.0 290.0 331.0 254.0 370.0 250.0 other-airplane Airplane 1
+450.0 263.0 411.0 270.0 405.0 236.0 444.0 229.0 other-airplane Airplane 1
+452.0 363.0 416.0 366.0 413.0 334.0 450.0 329.0 other-airplane Airplane 1
+578.0 252.0 540.0 254.0 538.0 222.0 575.0 220.0 other-airplane Airplane 1
+583.0 300.0 536.0 302.0 535.0 266.0 582.0 265.0 other-airplane Airplane 1
+691.0 295.0 653.0 297.0 651.0 263.0 690.0 263.0 other-airplane Airplane 1
+656.0 338.0 624.0 341.0 619.0 304.0 652.0 300.0 other-airplane Airplane 1
+758.0 195.0 749.0 229.0 714.0 216.0 724.0 184.0 other-airplane Airplane 1
+330.0 431.0 285.0 434.0 282.0 395.0 327.0 391.0 other-airplane Airplane 1
+236.0 538.0 203.0 540.0 200.0 500.0 233.0 497.0 other-airplane Airplane 1

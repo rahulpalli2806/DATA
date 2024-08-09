@@ -1,0 +1,6 @@
+188.0 274.0 153.0 274.0 153.0 183.0 188.0 183.0 Engineering_Ship Ship 1
+213.0 269.0 192.0 269.0 192.0 198.0 213.0 198.0 Engineering_Ship Ship 1
+251.0 274.0 211.0 274.0 211.0 184.0 251.0 184.0 Engineering_Ship Ship 1
+186.0 674.0 147.0 682.0 142.0 661.0 181.0 653.0 Basketball_Court Court 1
+186.0 703.0 152.0 710.0 147.0 689.0 181.0 681.0 Basketball_Court Court 1
+215.0 784.0 193.0 789.0 185.0 754.0 207.0 749.0 Basketball_Court Court 1

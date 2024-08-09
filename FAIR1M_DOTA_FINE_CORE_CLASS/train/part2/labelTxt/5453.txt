@@ -1,0 +1,4 @@
+447.0 706.0 423.0 734.0 390.0 706.0 415.0 677.0 other-airplane Airplane 1
+552.0 584.0 527.0 611.0 498.0 583.0 524.0 556.0 other-airplane Airplane 1
+583.0 481.0 565.0 504.0 535.0 479.0 554.0 456.0 other-airplane Airplane 1
+206.0 344.0 180.0 371.0 163.0 353.0 189.0 328.0 Intersection Road 1

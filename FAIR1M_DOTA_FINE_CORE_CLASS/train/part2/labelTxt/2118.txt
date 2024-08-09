@@ -1,0 +1,9 @@
+600.0 52.0 584.0 82.0 552.0 66.0 568.0 35.0 ARJ21 Airplane 1
+451.768555 25.530344 438.0 3.0 456.0 -8.000004 469.768555 14.53034 other-airplane Airplane 1
+457.0 37.0 437.0 46.0 428.0 27.0 448.0 18.0 other-airplane Airplane 1
+431.0 84.0 412.0 96.0 401.0 78.0 420.0 66.0 other-airplane Airplane 1
+365.0 50.0 355.0 70.0 331.0 57.0 341.0 38.0 other-airplane Airplane 1
+289.0 19.0 279.0 38.0 258.0 28.0 267.0 8.0 other-airplane Airplane 1
+274.0 42.0 265.0 61.0 247.0 52.0 256.0 33.0 other-airplane Airplane 1
+263.0 66.0 252.0 86.0 235.0 76.0 246.0 57.0 other-airplane Airplane 1
+533.0 179.0 517.0 211.0 480.0 193.0 496.0 161.0 ARJ21 Airplane 1

@@ -1,0 +1,4 @@
+441.0 745.0 473.0 728.0 459.0 703.0 428.0 720.0 other-airplane Airplane 1
+470.0 819.0 431.0 830.0 441.0 863.0 479.0 852.0 other-airplane Airplane 1
+668.0 755.0 651.0 720.0 628.0 732.0 646.0 766.0 other-airplane Airplane 1
+403.0 773.0 387.0 742.0 364.0 753.0 379.0 784.0 other-airplane Airplane 1

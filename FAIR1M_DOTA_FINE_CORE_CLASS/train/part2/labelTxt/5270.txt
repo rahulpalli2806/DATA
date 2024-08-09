@@ -1,0 +1,5 @@
+57.0 512.0 35.0 541.0 1.0 516.0 23.0 487.0 other-airplane Airplane 1
+167.0 391.0 141.0 422.0 108.0 395.0 133.0 364.0 other-airplane Airplane 1
+343.0 205.0 315.0 240.0 287.0 217.0 314.0 182.0 ARJ21 Airplane 1
+266.0 142.0 243.0 169.0 212.0 143.0 235.0 116.0 other-airplane Airplane 1
+408.0 57.0 388.0 81.0 357.0 56.0 378.0 31.0 other-airplane Airplane 1

@@ -1,0 +1,8 @@
+928.0 458.0 960.0 438.0 941.0 407.0 909.0 428.0 other-airplane Airplane 1
+607.0 67.0 618.0 87.0 640.0 76.0 630.0 55.0 other-airplane Airplane 1
+701.0 108.0 721.0 136.0 752.0 115.0 732.0 86.0 other-airplane Airplane 1
+698.0 212.0 717.0 242.0 747.0 222.0 728.0 193.0 other-airplane Airplane 1
+753.0 179.0 771.0 206.0 796.0 189.0 778.0 162.0 other-airplane Airplane 1
+799.0 252.0 819.0 281.0 848.0 261.0 829.0 232.0 other-airplane Airplane 1
+656.0 38.0 675.0 67.0 705.0 48.0 687.0 19.0 other-airplane Airplane 1
+61.0 598.0 203.0 523.0 189.0 498.0 48.0 573.0 Bridge Road 1

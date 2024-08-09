@@ -1,0 +1,5 @@
+140.0 138.0 116.0 142.0 112.0 111.0 136.0 108.0 other-airplane Airplane 1
+190.0 126.0 174.0 146.0 150.0 126.0 165.0 106.0 other-airplane Airplane 1
+280.0 31.0 251.0 38.0 245.0 14.0 274.0 7.0 other-airplane Airplane 1
+424.0 44.0 394.0 46.0 392.0 21.0 422.0 18.0 other-airplane Airplane 1
+583.0 11.999991 560.0 20.999992 551.782654 0.0 578.304382 -1e-06 other-airplane Airplane 1

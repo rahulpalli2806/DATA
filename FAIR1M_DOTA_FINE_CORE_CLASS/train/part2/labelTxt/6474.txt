@@ -1,0 +1,9 @@
+59.0 297.0 96.0 295.0 95.0 263.0 57.0 264.0 other-airplane Airplane 1
+24.0 304.0 29.0 342.0 62.0 339.0 58.0 300.0 other-airplane Airplane 1
+154.0 229.0 164.0 195.0 129.0 184.0 119.0 217.0 other-airplane Airplane 1
+231.0 208.0 192.0 210.0 195.0 246.0 233.0 243.0 other-airplane Airplane 1
+230.0 254.0 185.0 257.0 187.0 292.0 233.0 289.0 other-airplane Airplane 1
+234.0 297.0 236.0 331.0 270.0 329.0 268.0 295.0 other-airplane Airplane 1
+217.0 287.0 193.0 314.0 214.0 332.0 237.0 305.0 other-airplane Airplane 1
+302.0 236.0 347.0 233.0 344.0 194.0 300.0 197.0 other-airplane Airplane 1
+393.0 48.0 436.0 48.0 436.0 4.0 393.0 4.0 Roundabout Road 1

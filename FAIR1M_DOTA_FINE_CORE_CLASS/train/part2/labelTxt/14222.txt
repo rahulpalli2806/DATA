@@ -1,0 +1,8 @@
+537.0 442.0 491.0 444.0 489.0 410.0 535.0 408.0 other-airplane Airplane 1
+578.0 300.0 541.0 301.0 541.0 267.0 578.0 267.0 other-airplane Airplane 1
+444.0 550.0 412.0 552.0 409.0 514.0 441.0 512.0 other-airplane Airplane 1
+588.0 755.0 549.0 758.0 547.0 725.0 586.0 722.0 other-airplane Airplane 1
+106.0 369.0 15.0 376.0 7.0 276.0 99.0 270.0 other-airplane Airplane 1
+113.0 476.0 22.0 482.0 15.0 384.0 106.0 378.0 other-airplane Airplane 1
+123.0 583.0 32.0 592.0 22.0 492.0 114.0 484.0 other-airplane Airplane 1
+113.0 681.0 34.0 687.0 29.0 610.0 107.0 605.0 A330 Airplane 1

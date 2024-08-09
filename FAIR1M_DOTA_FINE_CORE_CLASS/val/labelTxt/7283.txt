@@ -1,0 +1,5 @@
+535.0 863.0 473.0 874.0 459.0 795.0 522.0 784.0 Basketball_Court Court 1
+602.0 856.0 540.0 866.0 527.0 785.0 589.0 776.0 Basketball_Court Court 1
+682.0 848.0 618.0 859.0 603.0 775.0 667.0 764.0 Basketball_Court Court 1
+759.0 840.0 693.0 850.0 680.0 766.0 746.0 756.0 Basketball_Court Court 1
+834.0 831.0 764.0 843.0 750.0 760.0 821.0 748.0 Basketball_Court Court 1

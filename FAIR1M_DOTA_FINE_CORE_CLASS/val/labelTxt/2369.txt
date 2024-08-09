@@ -1,0 +1,5 @@
+123.0 838.0 126.0 891.0 181.0 888.0 178.0 836.0 other-airplane Airplane 1
+-19.0 846.0 -14.0 900.0 46.0 895.0 42.0 841.0 other-airplane Airplane 1
+179.0 798.0 175.0 743.0 113.0 748.0 117.0 802.0 other-airplane Airplane 1
+269.0 798.0 263.0 738.0 192.0 746.0 198.0 806.0 other-airplane Airplane 1
+834.0 183.0 839.0 284.0 957.0 278.0 952.0 177.0 Boeing787 Airplane 1

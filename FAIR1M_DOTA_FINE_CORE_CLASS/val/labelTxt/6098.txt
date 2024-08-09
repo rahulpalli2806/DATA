@@ -1,0 +1,9 @@
+34.0 282.0 67.0 264.0 49.0 232.0 17.0 249.0 other-airplane Airplane 1
+58.0 330.0 93.0 315.0 77.0 280.0 43.0 295.0 other-airplane Airplane 1
+266.0 396.0 298.0 379.0 281.0 347.0 249.0 364.0 other-airplane Airplane 1
+285.0 444.0 326.0 422.0 306.0 384.0 264.0 407.0 A220 Airplane 1
+313.0 497.0 345.0 480.0 328.0 449.0 297.0 466.0 other-airplane Airplane 1
+349.0 559.0 386.0 540.0 370.0 510.0 333.0 529.0 other-airplane Airplane 1
+391.0 622.0 416.0 612.0 402.0 579.0 377.0 589.0 other-airplane Airplane 1
+414.0 698.0 451.0 681.0 432.0 639.0 394.0 657.0 other-airplane Airplane 1
+443.0 763.0 485.0 742.0 467.0 705.0 425.0 726.0 other-airplane Airplane 1

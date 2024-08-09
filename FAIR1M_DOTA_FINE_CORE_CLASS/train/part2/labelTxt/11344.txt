@@ -1,0 +1,9 @@
+330.0 906.0 371.0 938.0 400.0 902.0 365.0 870.0 Boeing737 Airplane 1
+668.0 563.0 700.0 590.0 728.0 556.0 696.0 529.0 other-airplane Airplane 1
+700.0 515.0 732.0 540.0 754.0 511.0 723.0 486.0 other-airplane Airplane 1
+805.0 395.0 841.0 422.0 867.0 390.0 830.0 363.0 other-airplane Airplane 1
+943.0 168.0 966.0 140.0 932.0 115.0 909.0 143.0 other-airplane Airplane 1
+490.0 181.0 516.0 156.0 501.0 139.0 475.0 165.0 Intersection Road 1
+321.0 109.0 333.0 93.0 306.0 68.0 294.0 84.0 Basketball_Court Court 1
+175.0 786.0 207.0 756.0 190.0 738.0 158.0 770.0 other-airplane Airplane 1
+246.0 456.0 232.0 444.0 243.0 430.0 258.0 442.0 Intersection Road 1
